@@ -1,2 +1,2 @@
 # GradeMe
-Online WebApp using ReactJS that allows students to easily calculate their GPAs and CGPA.
+WebApp using ReactJS that allows students to easily calculate their GPAs and CGPA.
